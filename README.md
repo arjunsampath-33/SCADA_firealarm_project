@@ -16,11 +16,11 @@ The system monitors four channels (each with two sensors) and triggers outputs b
 ## 📸 Screenshots
 | Page | Description |
 |------|-------------|
-| ![Login](images/SCADA-1.png) | Login screen |
-| ![Work](images/SCADA-2.png) | Work process with switches |
-| ![Light](images/SCADA-3.png) | 2 channels → Light blink |
-| ![Hooter](images/SCADA-4.png) | 3 channels → Hooter ON |
-| ![Motor](images/SCADA-5.png) | 4 channels → Motor ON |
+| ![Login](images/SCADA_1.png) | Login screen |
+| ![Work](images/SCADA_2.png) | Work process with switches |
+| ![Light](images/SCADA_3.png) | 2 channels → Light blink |
+| ![Hooter](images/SCADA_4.png) | 3 channels → Hooter ON |
+| ![Motor](images/SCADA_5.png) | 4 channels → Motor ON |
 
 ## 💻 Tools
 - **SCADA:** Wonderware InTouch (Simulation mode)  
